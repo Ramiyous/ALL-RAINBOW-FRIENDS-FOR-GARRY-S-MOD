@@ -83,9 +83,10 @@
     "guideData": [
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 1",
+        "text_Content": "Garry's Mod is a popular sandbox game that has been around for years, and it has something for everyone. Whether you're a seasoned veteran or a new player, collecting all the Rainbow Friends in the game can be a fun, challenging, and rewarding experience. Rainbow Friends are a type of character in the game that come in a variety of shapes and sizes and can be found in various places. Collecting all the Rainbow Friends is a great way to complete the game and be rewarded with some cool items and achievements. In this guide, we'll provide you with all the tips and tricks you need to find and collect all the Rainbow Friends in Garry’s Mod. From where to find them, to how to use them, we've got you covered! So, grab your controller and let's get started!",
+        "text_Content_1": "What are Rainbow Friends?
+Rainbow Friends are a type of NPC that are used in Garry's Mod to create lots of different game modes and scenarios. These characters come in a variety of shapes and sizes and can be found in various places. Rainbow Friends can be used to play games with your friends and create some silly and fun moments. When playing with Rainbow Friends, there are no rules, and you can get creative with them. You can also collect all Rainbow Friends in the game to complete the collection. Collecting all Rainbow Friends will reward you with some cool items and achievements. You can play games with the Rainbow Friends by clicking the blue man in the top right corner and selecting the "Spawn" tab. You can then choose which Rainbow Friend you want to spawn using the menu."
 
 
 
@@ -93,9 +94,11 @@
     },
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 2",
+        "text_Content": "Where to find Rainbow Friends
+In Garry's Mod, there are many different places where you can find Rainbow Friends. There are specific spawn points for each Rainbow Friend and you can find them in tons of different places. These include: - Spawn points - You can find Rainbow Friends at spawn points, which are located in multiple areas in the game. - Machines - Some of the Rainbow Friends can be found inside a few machines in the game. - Hidden places - You can also find some Rainbow Friends hidden in random places around the map. - Special events - Rainbow Friends can also be found during special events in the game. These events can be triggered by other players or specific objectives.",
+        "text_Content_1": "Collecting Rainbow Friends
+There are many different ways to collect Rainbow Friends in Garry's Mod. Collecting Rainbow Friends can be done in a variety of ways, and you'll learn more about them in this section. Some of the ways you can collect Rainbow Friends include: - Spawning them - You can spawn certain Rainbow Friends in the game by clicking the blue man in the top right corner and selecting the "Spawn" tab. From there, you can choose which Rainbow Friend you want to spawn using the menu.."
 
 
 
@@ -103,9 +106,10 @@
     },
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack  3",
+        "text_Content": " Using cheats - Cheats can be used to spawn specific Rainbow Friends in the game. You can find a cheats list in the in-game menu by clicking the "Help" tab. - Finding them in the wild - You can also find certain Rainbow Friends in the wild. When you find a Rainbow Friend, you'll see a little blue circle appear at their feet..",
+        "text_Content_1": "Benefits of Collecting Rainbow Friends
+Collecting Rainbow Friends is a great way to complete the game and be rewarded with some cool items and achievements. There are many benefits of collecting Rainbow Friends in Garry's Mod. Some of these include: - Completing the game - Collecting all Rainbow Friends is a great way to complete the game. You'll receive a ton of rewards at the end, so it's definitely worth the effort. - Unlocking achievements - You'll unlock achievements as you progress through collecting Rainbow Friends. This is an easy way to earn some Gamerscore on Xbox One. - Having fun - Collecting Rainbow Friends is a great way to have fun and be creative. You can use them to play games with your friends or use them in creative ways.."
 
 
 
@@ -113,9 +117,10 @@
     }
     ,{
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 4",
+        "text_Content": "Tips for Collecting Rainbow Friends
+If you're looking to collect all the Rainbow Friends in the game, here are some important tips to keep in mind. These tips will help you collect all the Rainbow Friends in the game in a timely manner. ",
+        "text_Content_1": "Some of these tips include: - Play the game - You can unlock Rainbow Friends by playing the game. You can earn them by completing various challenges in the game or by participating in special events that happen. - Read the in-game map - The in-game map is a great way to track all the Rainbow Friends you've found in the game. You can also see their locations on the map. - Use all the machines - There are many machines in the game that can help you collect Rainbow Friends. Make sure to use them as often as possible.."
 
 
 
@@ -123,9 +128,10 @@
     },
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 5",
+        "text_Content": "How to use Rainbow Friends
+If you've collected all the Rainbow Friends in the game, you can use them to play games with friends and have fun in Garry's Mod. You can use all the Rainbow Friends you've collected in the game. With them, you can play games with friends and have fun in lots of different ways. There are many ways you can use Rainbow Friends in the game. You can: - Play mini-games - You can play mini-games with other players using the Rainbow Friends in the game. .",
+        "text_Content_1": "There are tons of mini-games you can play, including soccer and paintball. - Create challenges - The game also allows you to create challenges with the Rainbow Friends. You can create fun and silly challenges that you can play with your friends. - Play with them in creative ways - You can also interact with the Rainbow Friends in creative ways. You can use them to create custom game modes and have hours of fun with them.."
 
 
 
@@ -133,9 +139,11 @@
     },
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 6",
+        "text_Content": "Rewards for Collecting Rainbow Friends
+When you collect all the Rainbow Friends in the game, you'll receive some great rewards. Collecting all the Rainbow Friends in the game will reward you with some cool items and achievements. Here are some of the rewards you'll receive when you collect all Rainbow Friends: - A new menu - One of the rewards for collecting all the Rainbow Friends is a new menu. This menu will allow you to spawn every Rainbow Friend in the game. You can even spawn multiple Rainbow Friends at once. - New challenges - You'll also unlock new challenges in the game when you collect all Rainbow Friends. These challenges can be very difficult to complete, so be careful..",
+        "text_Content_1": "Other Resources for Collecting Rainbow Friends
+If you're struggling to collect all the Rainbow Friends in the game, there are some great resources you can use. In this section, we'll go over some resources that can help you collect all the Rainbow Friends in the game. Some of these resources include: - The in-game map - The in-game map is a great way to track all the Rainbow Friends you've found in the game. You can also see their locations on the map. - The cheat menu - The cheat menu is a great place to find all the cheats in the game. You can find a list with all the Rainbow Friends and the cheats you can use to spawn them."
 
 
 
@@ -143,9 +151,10 @@
     },
     {
       "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 7",
+        "text_Content": "Conclusion
+In this guide, we've explored what Rainbow Friends are and how you can use them in Garry's Mod. You can also collect all the Rainbow Friends in the game to complete the collection.",
+        "text_Content_1": "Collecting all Rainbow Friends will reward you with some cool items and achievements. You can play games with the Rainbow Friends by clicking the blue man in the top right corner and selecting the "Spawn" tab. From there, you can spawn the Rainbow Friends using the menu. With these tips and tricks, collecting all Rainbow Friends should be a breeze. So, get ready to collect all the Rainbow Friends in the game and have fun along the way!."
 
 
 
