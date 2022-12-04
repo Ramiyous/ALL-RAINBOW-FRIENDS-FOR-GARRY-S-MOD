@@ -82,7 +82,7 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvB874.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 1",
         "text_Content": "Garry's Mod is a popular sandbox game that has been around for years, and it has something for everyone. Whether you're a seasoned veteran or a new player, collecting all the Rainbow Friends in the game can be a fun, challenging, and rewarding experience. Rainbow Friends are a type of character in the game that come in a variety of shapes and sizes and can be found in various places. Collecting all the Rainbow Friends is a great way to complete the game and be rewarded with some cool items and achievements. In this guide, we'll provide you with all the tips and tricks you need to find and collect all the Rainbow Friends in Garry’s Mod. From where to find them, to how to use them, we've got you covered! So, grab your controller and let's get started!",
         "text_Content_1": "What are Rainbow Friends?
@@ -93,7 +93,7 @@ Rainbow Friends are a type of NPC that are used in Garry's Mod to create lots of
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvBrIS.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 2",
         "text_Content": "Where to find Rainbow Friends
 In Garry's Mod, there are many different places where you can find Rainbow Friends. There are specific spawn points for each Rainbow Friend and you can find them in tons of different places. These include: - Spawn points - You can find Rainbow Friends at spawn points, which are located in multiple areas in the game. - Machines - Some of the Rainbow Friends can be found inside a few machines in the game. - Hidden places - You can also find some Rainbow Friends hidden in random places around the map. - Special events - Rainbow Friends can also be found during special events in the game. These events can be triggered by other players or specific objectives.",
@@ -105,7 +105,7 @@ There are many different ways to collect Rainbow Friends in Garry's Mod. Collect
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvBSkl.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack  3",
         "text_Content": " Using cheats - Cheats can be used to spawn specific Rainbow Friends in the game. You can find a cheats list in the in-game menu by clicking the "Help" tab. - Finding them in the wild - You can also find certain Rainbow Friends in the wild. When you find a Rainbow Friend, you'll see a little blue circle appear at their feet..",
         "text_Content_1": "Benefits of Collecting Rainbow Friends
@@ -116,7 +116,7 @@ Collecting Rainbow Friends is a great way to complete the game and be rewarded w
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvBUp2.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 4",
         "text_Content": "Tips for Collecting Rainbow Friends
 If you're looking to collect all the Rainbow Friends in the game, here are some important tips to keep in mind. These tips will help you collect all the Rainbow Friends in the game in a timely manner. ",
@@ -127,7 +127,7 @@ If you're looking to collect all the Rainbow Friends in the game, here are some 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvB874.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 5",
         "text_Content": "How to use Rainbow Friends
 If you've collected all the Rainbow Friends in the game, you can use them to play games with friends and have fun in Garry's Mod. You can use all the Rainbow Friends you've collected in the game. With them, you can play games with friends and have fun in lots of different ways. There are many ways you can use Rainbow Friends in the game. You can: - Play mini-games - You can play mini-games with other players using the Rainbow Friends in the game. .",
@@ -138,7 +138,7 @@ If you've collected all the Rainbow Friends in the game, you can use them to pla
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvBrIS.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 6",
         "text_Content": "Rewards for Collecting Rainbow Friends
 When you collect all the Rainbow Friends in the game, you'll receive some great rewards. Collecting all the Rainbow Friends in the game will reward you with some cool items and achievements. Here are some of the rewards you'll receive when you collect all Rainbow Friends: - A new menu - One of the rewards for collecting all the Rainbow Friends is a new menu. This menu will allow you to spawn every Rainbow Friend in the game. You can even spawn multiple Rainbow Friends at once. - New challenges - You'll also unlock new challenges in the game when you collect all Rainbow Friends. These challenges can be very difficult to complete, so be careful..",
@@ -150,7 +150,7 @@ If you're struggling to collect all the Rainbow Friends in the game, there are s
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HBvB6Q9.jpg",
       "title": "ALL-RAINBOW-FRIENDS-FOR-GARRY-S-MOD pack 7",
         "text_Content": "Conclusion
 In this guide, we've explored what Rainbow Friends are and how you can use them in Garry's Mod. You can also collect all the Rainbow Friends in the game to complete the collection.",
